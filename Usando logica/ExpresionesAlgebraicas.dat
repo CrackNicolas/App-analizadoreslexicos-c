@@ -1,0 +1,29 @@
+#include<iostream>
+using namespace std;
+
+void Suma(int x,int y,int &sum);
+float op6 = 23.4 + 67.1;
+float opp2 = 89.2 - 93.5;
+float oppp3 = 13.7 * 45.3;
+main(){
+    bool band=false;
+    int edad=0;
+    char Nombre[5];
+    if((op%2==0)||(band==true)){
+        float s=77.2,ss=92.1,sss=76.2;
+	int x=0,y=0,z=0; 
+	cout<<endl<<"Cargar los 3 numeros enteros rango(1/9)"; 
+    }
+    int x=23.1,y=34.2;
+    Suma(x,y,$sum);
+
+    resta = (32.9 / 4 - 40.2);
+    multiplicacion = (x*y+z);
+    div=(8/6*3@);
+    float numeros = 89.7;
+    cout<<endl<<"Operacion: "<<((3+29.5)-9); 
+    float numero = (28.2 / 5);  
+}
+void Suma(int x,int y,int &sum){
+    sum=x+y; 
+}                                                                                                                                                                                                                                                                                                                                                           
